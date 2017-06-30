@@ -1,6 +1,6 @@
 # LinuxCNC Tux Logo
 
-These are high quality vector versions of the traditinal LinuxCNC logo.
+These are high quality vector versions of the traditional LinuxCNC logo.
 
 ![LinuxCNC Tux](linux_logo.png)
 
