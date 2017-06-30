@@ -1,8 +1,8 @@
-# LinuxCNC Tux Logo
+# Standard LinuxCNC Chips logo
 
-These are high quality vector versions of the traditional LinuxCNC logo.
-
-![LinuxCNC Tux](linux_logo.png)
-
-These logos are courtesy of rodw on the LinuxCNC forum:
+High quality vector versions of the standard LinuxCNC logo. Courtesy of rodw.  
 https://forum.linuxcnc.org/show-your-stuff/32672-linuxcnc-logo?start=20#95199
+
+![LinuxCNC Chips](linux_logo.png)
+
+
